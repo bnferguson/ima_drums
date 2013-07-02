@@ -3,7 +3,7 @@ Reactive LED Drums
 
 Arduino Code for commission by the Indianpolis Museum of Art for their Winter Solstice drum circle in 2012. [John Anderson](http://sailindaze.blogspot.com/) did all of the electronics work, PWM driver code, and initial Arduino prototype. [Tom Streit](http://cargocollective.com/bigdudesculpture) and [Jordan Munson](http://www.jordanmunson.com/) did the physical drums, and [Brandon Ferguson](http://github.com/bnferguson) did the code.
 
-You can see the drums in action [here](http://www.youtube.com/watch?feature=player_embedded&v=uGqpzUWrqMg), care of John Anderson.
+You can see the drums in action [here](http://www.youtube.com/watch?v=t9sxI8FDv84) and [here](http://www.youtube.com/watch?feature=player_embedded&v=uGqpzUWrqMg), care of John Anderson.
 
 Hardware
 --------------------
